@@ -1,5 +1,5 @@
 {
-    "name": "SPIRIT SER ",
+    "name": "ADHI SER ",
     "description": "spiritser is the Modified Version of WhatsAsena, Made By @SPlRlT-YT with Baileys.",
     "logo": "https://i.imgur.com/6phTw6C.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
@@ -176,7 +176,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": true,
-            "value": "༺═══❃sᴘɪʀɪᴛ sᴇʀ❃═══༻"
+            "value": "༺═══❃ADHI SER༻"
         },
         "WORK_TYPE": {
             "description": "spirit-ser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
@@ -195,17 +195,17 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "SPIRIT💝"
+            "value": "ADHI💝"
         },
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "wa.me/917994093863"
+            "value": "wa.me/919072501166"
         },
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "wa.me/917994093863"
+            "value": "wa.me/919072501166"
         },
         "DEPLOYER": {
             "description": "enter your name here",
@@ -228,12 +228,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*Downloading your song*"
+            "value": "*wait eppam tharam*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "*Feel the song*"
+            "value": "*ok allea*"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
